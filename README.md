@@ -20,8 +20,7 @@ Hình ảnh sử dụng từ Unsplash theo Unsplash License.
 Cần tuân thủ điều khoản cấp phép của Canva và các tài nguyên được sử dụng.
 
 ## 5. Tệp sản phẩm
-- [Xem infographic PNG](<img width="943" height="2000" alt="Infographic lợi ích số trong học tập" src="https://github.com/user-attachments/assets/5025bba3-204e-4780-b58f-2cb0827515da" />
-)
+- [Xem infographic PNG](Infographic lợi ích số trong học tập.jpg)
 
 ## 6. Giấy phép
 Dự kiến phát hành theo Creative Commons Attribution 4.0 International (CC BY 4.0), với điều kiện các thành phần trong sản phẩm đều đủ điều kiện để cấp phép theo giấy phép này.
